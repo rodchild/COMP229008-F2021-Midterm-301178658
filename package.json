@@ -1,5 +1,5 @@
 {
-  "name": "week03-009",
+  "name": "comp229008",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -16,5 +16,18 @@
     "jquery": "^3.6.0",
     "mongoose": "^6.0.8",
     "morgan": "~1.9.1"
-  }
+  },
+  "description": "Midterm COMP2229SEC008",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodchild/comp229008.git"
+  },
+  "author": "Ducarmel Zephyr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rodchild/comp229008/issues"
+  },
+  "homepage": "https://github.com/rodchild/comp229008#readme"
 }
